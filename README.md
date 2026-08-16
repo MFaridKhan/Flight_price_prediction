@@ -17,7 +17,8 @@ Raw Data → EDA & Feature Engineering → Model Comparison → Hyperparameter T
 
 ## 🖼️ Demo
 
-> `![App Screenshot](assets/screenshot.png)`
+<img width="596" height="413" alt="screenshot" src="https://github.com/user-attachments/assets/5b8898a6-c3d8-42fe-b836-51465bbfd5cd" />
+
 
 ---
 
